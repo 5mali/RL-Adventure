@@ -33,3 +33,4 @@ First, I recommend to use small test problems to run experiments quickly. Then, 
 - David Silver's course [link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - Berkeley deep RL [link](http://rll.berkeley.edu/deeprlcourse/)
 - Practical RL [link](https://github.com/yandexdataschool/Practical_RL)
+#END
